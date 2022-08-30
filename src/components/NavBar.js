@@ -2,7 +2,6 @@ import * as React from "react";
 import "./NavBar.css";
 import logo from "./turners.png";
 import { FaToggleOn, FaFacebook, FaInstagram } from "react-icons/fa";
-// import styled from "styled-components";
 
 export default function NavBar() {
     return (
@@ -24,7 +23,6 @@ export default function NavBar() {
                     <li> <a href="https://www.instagram.com/"><FaInstagram /></a></li>
                     <li> <a href="https://www.twitter.com/"><FaFacebook /> </a></li>
                 </ul>
-
 
                 <a href="#" className="nav__toggleBtn">
                     <FaToggleOn />
