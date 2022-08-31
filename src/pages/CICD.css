@@ -17,7 +17,7 @@
   width: 500px;
   height: 300px;
   align-items: center;
-  font-family: "Aboreto";
+  font-family: var(--SecondText);
 }
 
 h2 {
@@ -57,5 +57,5 @@ h2 {
 }
 
 h3 {
-    font-size: 16px;
+  font-size: 16px;
 }

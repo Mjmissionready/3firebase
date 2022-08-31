@@ -16,7 +16,6 @@
 
 body {
   background-color: #ede4dc;
-  font-family: "Aboreto";
 }
 
 /*  search start   */
@@ -28,7 +27,6 @@ body {
   width: 100%;
   align-items: center;
   justify-content: space-around;
-  align-items: center;
   background-color: rgb(255, 255, 255, 1);
   font-weight: 300;
   font-size: 18px;

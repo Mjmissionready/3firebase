@@ -16,7 +16,7 @@ export default function NavBar() {
                     <li><a href="/">Home</a></li>
                     <li><a href="/">About</a></li>
                     <li><a href="/">Search</a></li>
-                    <li><a href="/cicd">my CICD</a></li>
+                    <li><a href="/cicd">CICD</a></li>
                 </ul>
 
                 <ul className="nav__icons">
