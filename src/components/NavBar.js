@@ -1,7 +1,7 @@
 import * as React from "react";
 import "./NavBar.css";
 import logo from "./turners.png";
-import { FaToggleOn, FaFacebook, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaInstagram } from "react-icons/fa";
 
 export default function NavBar() {
     return (
