@@ -100,13 +100,6 @@ body {
   padding: 8px 12px;
 }
 
-.nav__toggleBtn {
-  position: absolute;
-  right: 40px;
-  display: none;
-  color: var(--nav-text);
-}
-
 .nav__menu.active,
 .nav__icons.active {
   display: flex;
@@ -136,10 +129,6 @@ body {
     display: none;
     justify-content: center;
     width: 100%;
-  }
-
-  .nav__toggleBtn {
-    display: block;
   }
 
   .column {

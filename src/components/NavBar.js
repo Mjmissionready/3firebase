@@ -23,10 +23,6 @@ export default function NavBar() {
                     <li> <a href="https://www.instagram.com/"><FaInstagram /></a></li>
                     <li> <a href="https://www.twitter.com/"><FaFacebook /> </a></li>
                 </ul>
-
-                <a href="#" className="nav__toggleBtn">
-                    <FaToggleOn />
-                </a>
             </>
         </nav>
     );
