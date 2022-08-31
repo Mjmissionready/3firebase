@@ -13,7 +13,7 @@ export default function NavBar() {
                 </div>
 
                 <ul className="nav__menu">
-                    <li><a href="/">Home</a></li>
+                    <li><a href="/cicd">Home</a></li>
                     <li><a href="/">About</a></li>
                     <li><a href="/">Search</a></li>
                     <li><a href="/cicd">CICD</a></li>
